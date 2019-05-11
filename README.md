@@ -18,7 +18,7 @@ The following changes were made to the server's SSH configuration (/etc/ssh/sshd
 
 Because password authentication is disabled, a key is required. Attempts to authenticate without a key will be denied.
 
-![Permission denied message](images\ssh-rsa-only.jpg)
+![Permission denied message](images/ssh-rsa-only.jpg)
 
 ## Security
 
